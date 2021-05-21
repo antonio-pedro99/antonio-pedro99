@@ -12,4 +12,3 @@
 - 📫 How to reach me: +244947528711
 - 😄 Pronouns: He
 - ⚡ Fun fact: The only Angolan in my class
--->😂😂😂😂
