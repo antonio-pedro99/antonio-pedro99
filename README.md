@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with time manage
 - 💬 Ask me about Windows 10, python, flutter, computer networking
 - 📫 How to reach me: +244947528711
-- 😄 Pronouns: He
 - ⚡ Fun fact: The only Angolan in my class.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antonio-pedro99)
