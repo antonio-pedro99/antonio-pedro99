@@ -8,9 +8,8 @@
 - 📫 How to reach me: +244947528711
 - ⚡ Fun fact: The only Angolan in my class.
 
-
-
-##
+#
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antonio-pedro99)
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-pedro99)](https://github.com/antonio-pedro/github-readme-stats)
