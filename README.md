@@ -7,6 +7,7 @@
 - 💬 Ask me about Windows 10, python, flutter, computer networking
 - 📫 How to reach me: +244947528711
 - ⚡ Fun fact: The only Angolan in my class.
+- Google Cloud Badges: https://bit.ly/3Gtj6aj
 
 #
 
