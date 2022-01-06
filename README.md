@@ -9,6 +9,7 @@
 - 📫 How to reach me: +244947528711
 - ⚡ Fun fact: The only Angolan in my class.
 - Google Cloud Badges: https://bit.ly/3Gtj6aj
+- IBM Developer Skills Network: https://www.credly.com/badges/e9678e9d-f32e-48c4-96a5-0b235a94153b/facebook?fbclid=IwAR2ay2wZzqKiQv0izERo6m-Ni_9MWhkxOpdwM0ddKz_m1YSt82quPixPn7I
 
 #
 
