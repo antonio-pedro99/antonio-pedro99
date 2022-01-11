@@ -7,8 +7,6 @@
 - 🤔 I’m looking for help with time manage
 - 💬 Ask me about Windows 10, python, flutter, computer networking
 - ⚡ Fun fact: The only Angolan in my class.
-- Google Cloud Badges: https://bit.ly/3Gtj6aj
-- IBM Developer Skills Network: https://www.credly.com/badges/e9678e9d-f32e-48c4-96a5-0b235a94153b/facebook?fbclid=IwAR2ay2wZzqKiQv0izERo6m-Ni_9MWhkxOpdwM0ddKz_m1YSt82quPixPn7I
 
 #
 
@@ -50,17 +48,9 @@
 <p>
     <br>
   <a href="https://www.cloudskillsboost.google/public_profiles/88343710-d8aa-4d7f-a5ff-287fb754a9a5">  <img height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="45"  /> </a>
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" height="45" /> </a> <a href="https://flask.palletsprojects.com/" target="_blank"></a>
-   
+     <a href=" https://www.credly.com/badges/e9678e9d-f32e-48c4-96a5-0b235a94153b/facebook?fbclid=IwAR2ay2wZzqKiQv0izERo6m-Ni_9MWhkxOpdwM0ddKz_m1YSt82quPixPn7I"> <img height="45"
+        src="https://images.credly.com/size/220x220/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png"> </a>
+     <a href="https://www.credly.com/badges/95244511-feb4-40d5-8daa-ca5318e849ae/public_url" > <img height="45"
+        src="https://images.credly.com/size/220x220/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png"> </a>
 </p><br>
 
