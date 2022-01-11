@@ -13,8 +13,6 @@
 #
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antonio-pedro99)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-pedro99)](https://github.com/antonio-pedro/github-readme-stats)
 
 <h2>Tools & Technologies </h2>
 <p>
@@ -60,3 +58,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" height="45" /> </a>
 </p><br>
+
+
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-pedro99)](https://github.com/antonio-pedro/github-readme-stats)
+
