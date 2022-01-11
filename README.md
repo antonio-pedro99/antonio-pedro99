@@ -20,7 +20,7 @@
 <h2>Tools & Technologies </h2>
 <p>
     <br>
-    <img height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="45" />
+  <a href="https://www.cloudskillsboost.google/public_profiles/88343710-d8aa-4d7f-a5ff-287fb754a9a5">  <img height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="45"  /> </a>
     <img height="45"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
     <img height="45"
