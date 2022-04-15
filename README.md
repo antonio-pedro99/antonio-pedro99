@@ -53,5 +53,7 @@
         src="https://images.credly.com/size/220x220/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png"> </a>
      <a href="https://www.credly.com/badges/95244511-feb4-40d5-8daa-ca5318e849ae/public_url" > <img height="60"
         src="https://images.credly.com/size/220x220/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png"> </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/2cc6bdc7-d8c3-406d-a83b-3d88a00b2b21/badges/1593634" > <img height="60"
+        src="https://cdn.qwiklabs.com/%2FPCy24rVgerXVWQg5YJeyiBQpEkC9wfO6XYR8k0BMKg%3D"> </a>
 </p><br>
 
