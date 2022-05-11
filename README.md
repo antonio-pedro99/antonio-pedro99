@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, my name is Antonio Pedro, I am a software developer  and I specializeed in mobile development with flutter and Android with over 5 years of experience. On my profile you will find some outstanding work to validate my experience.
+
 - 🔭 I’m currently working on some cool project 😎
 - 🌱 I’m currently learning FastAPI, Python, Git/Github
 - 👯 I’m looking to collaborate on python and flutter/dart projects
