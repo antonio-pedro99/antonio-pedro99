@@ -12,8 +12,10 @@ Hello, my name is Antonio Pedro, I am a software developer  and I specializeed i
 
 <a href="http://www.github.com/antonio-pedro99"><img src="https://github-readme-stats.vercel.app/api?username=antonio-pedro99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="antonio-pedro99's GitHub stats" /></a>
 
-<div style="{background:#000000}">
-   <p> Antonio </p>
+<div style="{display:flex}">
+      <a href="https://stardev.io/developers/antonio-pedro99"><img alt="Check out antonio-pedro99's profile on stardev.io"                src="https://stardev.io/developers/antonio-pedro99/badge/languages/global.svg" /></a>
+
+      <a href="https://stardev.io/developers/antonio-pedro99"><img alt="Check out antonio-pedro99's profile on stardev.io"    src="https://stardev.io/developers/antonio-pedro99/badge/languages/country.svg" /></a>  
 </div>
 
 <a href="http://www.github.com/antonio-pedro99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-pedro99&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
