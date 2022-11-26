@@ -9,7 +9,7 @@ Hello, my name is Antonio Pedro, I am a software developer  and I specializeed i
 - 🤔 I’m looking for help with time manage
 - 💬 Ask me about Windows 10, python, flutter, computer networking, Android Development, Operating System
 - ⚡ Fun fact: The only Angolan in my class.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-pedro99&label=Profile%20views&color=0e75b6&style=flat" alt="luk3d" /> </p>
+ 
 
 <a href="http://www.github.com/antonio-pedro99"><img src="https://github-readme-stats.vercel.app/api?username=antonio-pedro99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="antonio-pedro99's GitHub stats" /></a>
 
