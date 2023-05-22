@@ -4,7 +4,7 @@ Hello, my name is Antonio Pedro, I am a software developer  and I specializeed i
 
 - 🔭 I’m currently working on some cool Open Source projects 😎
 - 🔭 OpenHack 2022 - Best Personal Contribuition Winner 
-- 🌱 I’m currently learning Kotlin, Jetpack Compose, Cloud Computing.
+- 🌱 I’m currently contributing to research and engineering projects at IIITD's MIDAS Lab.
 - 👯 I’m looking to collaborate on python and flutter/dart projects
 - 🤔 I’m looking for help with time manage
 - 💬 Ask me about Windows 10, python, flutter, computer networking, Android Development, Operating System
