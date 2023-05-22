@@ -39,13 +39,9 @@ Hello, my name is Antonio Pedro, I am a software developer  and I specializeed i
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
     <img height="45"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" height="45" /> </a> <a href="https://flask.palletsprojects.com/" target="_blank">
-            </a>
+   
     </a> <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="45" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="45" /> </a>  <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             height="45" /> </a>  <a href="https://www.linux.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
