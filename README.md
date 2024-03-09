@@ -17,11 +17,12 @@ metadata:
 spec:
     replicas: 1   
 ```
-
+<img align="right" width="200" alt="danba340 Github Stats" src="daftpunktocat.gif" />
 <a href="http://www.github.com/antonio-pedro99"><img src="https://github-readme-stats.vercel.app/api?username=antonio-pedro99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="antonio-pedro99's GitHub stats" /></a>
 
+
 ### Socials
- <p align="left"> <a href="https://www.facebook.com/antoniopedro42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/antonio-pedro99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ant.pedro42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/antoniopedro99l/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@antonio-pedro2019z" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/antoniopedro42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/antonio-pedro99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ant.pedro42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/antoniopedro99l/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@antonio-pedro2019z" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 <h2>Tools & Technologies </h2>
 <p>
@@ -35,8 +36,7 @@ spec:
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
    <img height="45"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
- 
-  <img
+    <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="45" /> </a>  <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             height="45" /> </a>  <a href="https://www.linux.org/" target="_blank"> <img
@@ -46,7 +46,7 @@ spec:
             alt="mysql" height="45" /> </a> <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" height="45" /> 
-</p><br>
+</p><be>
 
 <h2>Digital Budges </h2>
 <p>
