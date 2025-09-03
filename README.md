@@ -1,17 +1,24 @@
 ```yaml
 apiVersion: v1
-kind: SoftwareDeveloper
+kind: SoftwareEngineer
 metadata:
     name: Antonio Pedro
-    namespace: IIIT Delhi, Undergraduate Computer Science and Engineering
+    namespace: Devexperts
     labels:
-        flutter/dev: true
+        software/engineer: true
                experience/year: 3
+                industry: fintech/distributed-systems/open-source
+        education:
+            university: "Indraprastha Institute of Information Technology, Delhi"
+            degree: computer science and engineering
+            status: graduated
+        aosc/lead: true
+                since: 2023
         cncf/mentee: 2023
                 project: strimzi
-        gdsc/mobileDev: 2022
+                status: graduated
     annotations:
-        interests: mobile development, cloud computing, distributed systems, system programming, and Linux
+        interests:  distributed systems, system programming, Linux, mobile development, and cloud computing
         sports: swimming, football
         community: angola open-source community, chaoss africa, cncf, flutter angola
 spec:
