@@ -60,7 +60,7 @@ spec:
     <br>
   <a href="https://www.cloudskillsboost.google/public_profiles/88343710-d8aa-4d7f-a5ff-287fb754a9a5">  <img height="60" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="60"  /> </a>
      <a href="https://www.credly.com/badges/e9678e9d-f32e-48c4-96a5-0b235a94153b/public_url"> <img height="60"
-        src="https://images.credly.com/size/220x220/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png"> </a>
+        src="https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png"> </a>
      <a href="https://www.credly.com/badges/95244511-feb4-40d5-8daa-ca5318e849ae/public_url" > <img height="60"
         src="https://images.credly.com/size/220x220/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png"> </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/2cc6bdc7-d8c3-406d-a83b-3d88a00b2b21/badges/1593634" > <img height="60"
