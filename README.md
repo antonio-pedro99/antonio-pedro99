@@ -56,15 +56,25 @@ spec:
             alt="python" height="45" /> 
 </p><be>
 
-<h2>Digital Budges </h2>
-<p>
-    <br>
-  <a href="https://www.cloudskillsboost.google/public_profiles/88343710-d8aa-4d7f-a5ff-287fb754a9a5">  <img height="60" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="60"  /> </a>
-     <a href="https://www.credly.com/badges/e9678e9d-f32e-48c4-96a5-0b235a94153b/public_url"> <img height="60"
-        src="https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png"> </a>
-     <a href="https://www.credly.com/badges/95244511-feb4-40d5-8daa-ca5318e849ae/public_url" > <img height="60"
-        src="https://images.credly.com/size/220x220/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png"> </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/2cc6bdc7-d8c3-406d-a83b-3d88a00b2b21/badges/1593634" > <img height="60"
-        src="https://cdn.qwiklabs.com/%2FPCy24rVgerXVWQg5YJeyiBQpEkC9wfO6XYR8k0BMKg%3D"> </a>
-</p><br>
+<h2>Bookshelf</h2>
+<p><em>Not an exhaustive list of books I am currently reading, have read, or have not started yet.</em></p>
+<h3>Technical books</h3>
+<ul>
+  <li><a href="https://dataintensive.net/">Designing Data-Intensive Applications</a> by Martin Kleppmann, 2017</li>
+  <li><a href="https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF">System Design Interview</a> by Alex Xu, 2020</li>
+  <li><a href="https://www.manning.com/books/netty-in-action">Netty in Action</a> by Norman Maurer and Marvin Allen Wolf, 2015</li>
+  <li><a href="https://www.pearson.com/en-us/subject-catalog/p/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/P200000003285">Clean Code</a> by Robert C. Martin, 2008</li>
+  <li><a href="https://mitpress.mit.edu/9780262046305/introduction-to-algorithms-fourth-edition/">Introduction to Algorithms</a> by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, 2022 <em>(course textbook)</em></li>
+  <li><a href="https://www.mheducation.com/highered/product/computer-organization-architecture-sarangi/M9781259253614.html">Computer Organisation and Architecture</a> by Smruti Ranjan Sarangi <em>(course textbook)</em></li>
+  <li><a href="https://man7.org/tlpi/">The Linux Programming Interface</a> by Michael Kerrisk, 2010</li>
+  <li><a href="https://www.oreilly.com/library/view/linux-kernel-development/9780768696974/">Linux Kernel Development</a> by Robert Love, 2010</li>
+  <li><a href="https://www.distributedsystems.net/book/">Distributed Systems</a> by Andrew S. Tanenbaum and Maarten van Steen <em>(course textbook)</em></li>
+  <li><a href="https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003284">Modern Operating Systems</a> by Andrew S. Tanenbaum and Herbert Bos</li>
+  <li><a href="https://www.manning.com/books/acing-the-kubernetes-administrator-exam">Acing the Kubernetes Administrator Exam</a> by Chad M. Crowell, 2023</li>
+</ul>
+<h3>Non-technical</h3>
+<ul>
+  <li><a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> by James Clear, 2018</li>
+  <li><a href="https://www.innerengineering.com/">Inner Engineering</a> by Sadhguru, 2016</li>
+</ul>
 
