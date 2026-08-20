@@ -19,7 +19,7 @@ metadata:
                 status: graduated
     annotations:
         interests:  distributed systems, system programming, Linux, mobile development, and cloud computing
-        sports: swimming, football
+        hobbies: swimming, indoor bouldering, piano, learn new languages
         community: angola open-source community, chaoss africa, cncf, flutter angola
 spec:
     replicas: 1   
