@@ -6,7 +6,7 @@ metadata:
     namespace: Devexperts
     labels:
         software/engineer: true
-               experience/year: 4
+               experience/year: 3
                 industry: fintech/distributed-systems/open-source
         education:
             university: "Indraprastha Institute of Information Technology, Delhi"
