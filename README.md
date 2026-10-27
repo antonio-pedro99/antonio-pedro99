@@ -1,3 +1,9 @@
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/antdev99)](https://twitter.com/antdev99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/antoniopedro99l/)](https://www.linkedin.com/in/antoniopedro99l/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/@antdev010)](https://www.youtube.com/@antdev010)
+[![Credly Badges](https://img.shields.io/badge/Credly-Badges-FF6B35?logo=credly&logoColor=white)](https://www.credly.com/users/antonio-pedro.ee79b3b4)
+[![Sessionize](https://img.shields.io/badge/-Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white&link=https://sessionize.com/antonio-pedro/)](https://sessionize.com/antonio-pedro/)
+
 ```yaml
 apiVersion: v1
 kind: SoftwareEngineer
@@ -29,33 +35,6 @@ spec:
 
 <img align="right" width="200" alt="antonio-pedro99 Github Stats" src="daftpunktocat.gif" />
 
-### Socials
-<p align="left"> <a href="https://www.facebook.com/antoniopedro42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/antonio-pedro99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ant.pedro42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/antoniopedro99l/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@antonio-pedro2019z" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-<h2>Tools & Technologies </h2>
-<p>
- <br>
-   <a href="https://www.cloudskillsboost.google/public_profiles/88343710-d8aa-4d7f-a5ff-287fb754a9a5">
-     <img height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="45"/>
-   </a>
-   <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-   <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-   <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-    <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="45" /> </a>  <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            height="45" /> </a>  <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            height="45" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" height="45" /> </a> <a href="https://www.python.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" height="45" /> 
-</p><be>
-
 <h2>Bookshelf</h2>
 <p><em>Not an exhaustive list of books I am currently reading, have read, or have not started yet.</em></p>
 <h3>Technical books</h3>
@@ -78,3 +57,14 @@ spec:
   <li><a href="https://www.innerengineering.com/">Inner Engineering</a> by Sadhguru, 2016</li>
 </ul>
 
+### Latest blog posts and articles
+
+| Date          | Title |
+|:--------------|:------|
+| January 5, 2024 | [Four main challenges in distributed systems.](https://antdev99.hashnode.dev/four-main-challenges-in-distributed-systems) |
+| January 2, 2024 | [Understanding Git Workflow and Social Coding](https://antdev99.hashnode.dev/understanding-git-workflow-and-social-coding) |
+| August 22, 2023 | [Exploring Mentorship Opportunities with CNCF: Your Path to Growth](https://antonio-pedro2019z.medium.com/exploring-mentorship-opportunities-with-cncf-your-path-to-growth-1df69ebe3124) |
+| July 17, 2023 | [Ensuring Rock-Solid Reliability: How Apache Kafka Keeps Your Data Safe](https://antonio-pedro2019z.medium.com/ensuring-rock-solid-reliability-how-apache-kafka-keeps-your-data-safe-6d4a112ab565) |
+| May 24, 2023 | [Firebase Emulator: Como usar Firebase sem ‘internet’ — Parte 1.](https://antonio-pedro2019z.medium.com/firebase-emulator-como-usar-firebase-sem-internet-parte-1-e359dfb977f7) |
+
+[**All blog posts and articles**](./BLOG_POSTS_ARTICLES.md)
